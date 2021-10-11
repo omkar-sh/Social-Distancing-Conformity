@@ -1,0 +1,15 @@
+Person
+PPE Kit
+Mask
+Non Mask
+Gloves
+Non Gloves
+CoveredTrolley
+NonCoveredTrolley
+Mop
+Hat
+Non Hat
+Cleaning Cloth
+Sanitizer Bottle
+Scrub Machine
+Fumi Can
